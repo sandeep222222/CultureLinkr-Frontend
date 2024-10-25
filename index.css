@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+
+
+
+.bg-container {
+  max-width: 400px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color:#fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+}
+
+.contact {
+  text-align: center;
+  color:black;
+  font-size:23px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  color: black;
+}
+
+input,
+textarea {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.button-text {
+  width: 100%;
+  padding: 10px;
+  background-color:#3277B5;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+
+
+.submit-message {
+  text-align: center;
+  color: green;
+  font-family:"roboto";
+  font-weight:bold;
+}
+
+
+
